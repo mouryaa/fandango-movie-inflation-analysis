@@ -1,0 +1,2 @@
+# fandango-movie-inflation-analysis
+Walt Hickey from FiveThirtyEight published a popular article where he presented strong evidence which suggest that Fandango's movie rating system was biased and dishonest. Fandango's officials replied that the biased rounding off was caused by a bug in their system rather than being intentional, and they promised to fix the bug as soon as possible.  This project is to sample and analyze popular movies between two years, one before the fix and one after, to determine whether there is a difference in ratings.
